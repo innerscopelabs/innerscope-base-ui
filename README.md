@@ -1,3 +1,3 @@
-# innerscope-base-ui
+# innerscope-mui
 
-A headless customizable set of ui components for innerscope.
+A set of Material Design Componnents Written For Innerscope.
